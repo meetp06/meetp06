@@ -17,7 +17,7 @@
 
 ## 🌐Connect with me
 <p align="left">
-<a href="https://www.instagram.com/meet_kotadiya__/" target="blank"><img align="center" src="https://www.androidsage.com/wp-content/uploads/2020/04/instaa.jpg" alt="meet" height="30" width="100" /></a>  
+<a href="https://www.instagram.com/meet_kotadiya__/" target="blank"><img align="center" src="https://www.androidsage.com/wp-content/uploads/2020/04/instaa.jpg" alt="meet" height="30" width="50" /></a>  
 <a href="https://www.linkedin.com/in/meetpatel06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetpatel06" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Mk.X14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="meet" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/mk14x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet" height="30" width="40" /></a>
