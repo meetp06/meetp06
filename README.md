@@ -50,9 +50,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=meetp06&theme=darkhub&no-frame=true&column=7">
 </a>
- 
-## ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## :zany_face: Joke of the day
 <a href="https://github.com/ABSphreak/readme-jokes">
