@@ -1,5 +1,5 @@
 # Hi there, I'm Meet Patel
-<img align="right" alt="GIF" height="160px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmahadev-4k-wallpaper-in-2024--720646377904698201%2F&psig=AOvVaw2yeKccWb-oln7uOg3JbI6W&ust=1732481827747000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCiqKGs84kDFQAAAAAdAAAAABAE" />
+<img align="right" alt="GIF" height="160px" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/chainsaw-man-denji-devil-gif-desktop-wallpaper-preview.gif" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Enthusiast+Competitive+Programmer;IT+Engineering+Student;Anime+Binger&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF.&vCenter=true&size=22"></a>
