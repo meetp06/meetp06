@@ -51,11 +51,10 @@
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=meetp06&theme=darkhub&no-frame=true&column=7">
 </a>
  
-<h2>✍️ Random Dev Quote</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote">
-<a target="_blank" href="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks">GeeksforGeeks Icon</a>
+## ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+[GeeksforGeeks Icon](https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks)
 
- 
 ## :zany_face: Joke of the day
 <a href="https://github.com/ABSphreak/readme-jokes">
    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
