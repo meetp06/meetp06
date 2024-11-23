@@ -52,8 +52,7 @@
 </a>
  
 ## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
-[GeeksforGeeks Icon](https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## :zany_face: Joke of the day
 <a href="https://github.com/ABSphreak/readme-jokes">
